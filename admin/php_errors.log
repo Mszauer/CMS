@@ -1,0 +1,48 @@
+[01-Mar-2017 19:52:48 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/admin/includes/logout.php on line 1
+[01-Mar-2017 19:52:48 UTC] PHP Stack trace:
+[01-Mar-2017 19:52:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/includes/logout.php:0
+[01-Mar-2017 19:52:48 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/admin/includes/logout.php on line 1
+[01-Mar-2017 19:52:48 UTC] PHP Stack trace:
+[01-Mar-2017 19:52:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/includes/logout.php:0
+[01-Mar-2017 20:41:28 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/admin/includes/logout.php on line 1
+[01-Mar-2017 20:41:28 UTC] PHP Stack trace:
+[01-Mar-2017 20:41:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/includes/logout.php:0
+[01-Mar-2017 20:41:28 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/admin/includes/logout.php on line 1
+[01-Mar-2017 20:41:28 UTC] PHP Stack trace:
+[01-Mar-2017 20:41:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/includes/logout.php:0
+[05-Mar-2017 23:24:02 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/admin/includes/logout.php on line 1
+[05-Mar-2017 23:24:02 UTC] PHP Stack trace:
+[05-Mar-2017 23:24:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/includes/logout.php:0
+[05-Mar-2017 23:24:02 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/admin/includes/logout.php on line 1
+[05-Mar-2017 23:24:02 UTC] PHP Stack trace:
+[05-Mar-2017 23:24:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/includes/logout.php:0
+[05-Mar-2017 23:24:02 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/ubuntu/workspace/admin/includes/logout.php on line 2
+[05-Mar-2017 23:24:02 UTC] PHP Stack trace:
+[05-Mar-2017 23:24:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/includes/logout.php:0
+[05-Mar-2017 23:24:02 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/admin/includes/logout.php on line 2
+[05-Mar-2017 23:24:02 UTC] PHP Stack trace:
+[05-Mar-2017 23:24:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/includes/logout.php:0
+[05-Mar-2017 23:49:05 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/admin/includes/logout.php on line 1
+[05-Mar-2017 23:49:05 UTC] PHP Stack trace:
+[05-Mar-2017 23:49:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/includes/logout.php:0
+[05-Mar-2017 23:49:05 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/admin/includes/logout.php on line 1
+[05-Mar-2017 23:49:05 UTC] PHP Stack trace:
+[05-Mar-2017 23:49:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/includes/logout.php:0
+[05-Mar-2017 23:49:05 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/ubuntu/workspace/admin/includes/logout.php on line 2
+[05-Mar-2017 23:49:05 UTC] PHP Stack trace:
+[05-Mar-2017 23:49:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/includes/logout.php:0
+[05-Mar-2017 23:49:05 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/admin/includes/logout.php on line 2
+[05-Mar-2017 23:49:05 UTC] PHP Stack trace:
+[05-Mar-2017 23:49:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/includes/logout.php:0
+[05-Mar-2017 23:50:27 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/admin/includes/logout.php on line 1
+[05-Mar-2017 23:50:27 UTC] PHP Stack trace:
+[05-Mar-2017 23:50:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/includes/logout.php:0
+[05-Mar-2017 23:50:27 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/admin/includes/logout.php on line 1
+[05-Mar-2017 23:50:27 UTC] PHP Stack trace:
+[05-Mar-2017 23:50:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/includes/logout.php:0
+[05-Mar-2017 23:50:27 UTC] PHP Warning:  include(1): failed to open stream: No such file or directory in /home/ubuntu/workspace/admin/includes/logout.php on line 2
+[05-Mar-2017 23:50:27 UTC] PHP Stack trace:
+[05-Mar-2017 23:50:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/includes/logout.php:0
+[05-Mar-2017 23:50:27 UTC] PHP Warning:  include(): Failed opening '1' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/admin/includes/logout.php on line 2
+[05-Mar-2017 23:50:27 UTC] PHP Stack trace:
+[05-Mar-2017 23:50:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/admin/includes/logout.php:0
